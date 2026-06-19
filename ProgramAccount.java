@@ -53,7 +53,6 @@ public class ProgramAccount {
 				break;
 
 			}
-			System.out.println(conta.toString());
 
 		}
 
