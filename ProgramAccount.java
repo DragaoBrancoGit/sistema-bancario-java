@@ -44,7 +44,7 @@ public class ProgramAccount {
 				conta.deposit(deposit);
 				break;
 			case 2:
-				System.out.println("Qual valor deseja sacar2 ?");
+				System.out.println("Qual valor deseja sacar ?");
 				double withdraw = sc.nextDouble();
 				conta.withdraw(withdraw);
 				break;
